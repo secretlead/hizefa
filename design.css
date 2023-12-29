@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 150px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(189, 74, 132);
+    text-shadow: 120px;
+}
+.social-button {
+    display: inline-block;
+    margin: 40px;
+    padding: 28px;
+    height: 10px;
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(247, 247, 247);
+    background-color: rgb(202, 158, 228);
+    border: none;
+    border-radius: 19px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: beige;
+}
+footer {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+div {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ms {
+    font-size: 13px;
+    color: black;
+}
